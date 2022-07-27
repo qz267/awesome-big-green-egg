@@ -1,2 +1,8 @@
 # awesome-big-green-egg
-Big green egg recipes
+We are eggers, we love BGE!
+
+## BGE 101
+
+## big green egg accessories
+
+## big green egg recipes

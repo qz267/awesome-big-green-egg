@@ -4,6 +4,7 @@ We are eggers, we love BGE!
 ## big green egg recipes
 
 ### Low & Slow Recipes
+* [Baked Sweet Potato](https://youtu.be/Df8O6yKdny8)
 * [Brisket Burnt Ends](Https://www.biggreenegg.co.uk/r/brisket-burnt-ends)
 * [Carolina Smoked Chicken](Https://www.hy-vee.com/recipes-ideas/recipes/carolina-smoked-chicken)
 * [Carnitas](Https://www.biggreenegg.co.uk/r/carnitas)
